@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSPXYjYcRMB5Mrc52KOoP9Dk6LGfwM1UC0+1H2HVJPYpDFZp4KCGb4fPFuuM/yz9b2bRbTAWimfwKIGXseEPDA==",
+  "success": true,
+  "projectFilePath": "/Users/miko/Projects/Week16BitcoinApp/Week16BitcoinApp/Week16BitcoinApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/miko/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
+    "/Users/miko/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
